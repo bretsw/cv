@@ -13,11 +13,12 @@ jobtitle: "PhD Student, Michigan State University"
 fontawesome: yes
 
 email: bret@bretsw.com
-linkedin: bretsw
 twitter: bretsw
 github: bretsw
-# phone: ""
+linkedin: bretsw
+scholar: bretsw
 web: bretsw.com
+# phone: ""
 updated: yes
 
 keywords: R Markdown, academic CV, template
@@ -39,11 +40,11 @@ urlcolor: blue
 
 # Education
 
-*College of Education, Michigan State University*  
+*Michigan State University, College of Education*  
 PhD Educational Psychology & Educational Technology \hfill 2016-present  
 MA Educational Technology \hfill 2012-2015
 
-*College of Arts & Sciences, Bucknell University*  
+*Bucknell University, College of Arts & Sciences*  
 BA Mathematics & Sociology \hfill 1999-2003
 
 # Publications
