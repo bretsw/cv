@@ -127,32 +127,39 @@ Bucknell University \hfill Lewisburg PA
 
 # Service
 
-*Graduate Student Representative*, Research & Theory Division \hfill 2018-2019  
-Association for Educational Communications & Technology (AECT)
+## Ad-hoc Journal Article Reviews
 
-*Session Presider/Chair* \hfill 2018  
-AERA Annual Meeting (New York NY)  
-SITE International Conference (Washington DC)
+Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) \hfill 2016  
 
-*Assistance with Content Analysis for Doctoral Dissertation* \hfill 2018  
-With Colin Terry (Doctoral Candidate)
+## Service to Profession
 
+Association for Educational Communications & Technology (AECT)  
+*Graduate Student Representative*, Research & Theory Division \hfill 2018-2019
+
+American Educational Research Association (AERA)  
+*Session Presider/Chair*, Annual Meeting (New York NY) \hfill 2018
+
+Society for Information Technology and Teacher Education (SITE)  
+*Session Presider/Chair*, International Conference (Washington DC) \hfill 2018
+
+Passion Talks Conference (Google HQ, Mountain View CA)  
 *Science, Technology, & Innovation Track Chair* \hfill 2017  
 *Conference Executive Committee Member* \hfill 2017  
-*Conference Program Committee Member* \hfill 2017  
-Passion Talks Conference, Mountain View CA
+*Conference Program Committee Member* \hfill 2017
 
-*Graduate Student Ad-Hoc Reviewer* \hfill 2016  
-With Dr. Christine Greenhow (Faculty Reviewer), *Learning, Media and Technology*
-
-*Hackathon Mentor Coordinator* \hfill 2015  
+Urbana International Conference (St. Louis MO)  
 *Hackathon Core Leadership Team Member* \hfill 2015  
-Urbana International Conference, St. Louis MO
+*Hackathon Mentor Coordinator* \hfill 2015
 
+North American Simulation and Game Association (NASAGA)  
 *Board Member* \hfill 2013-2015  
-*Conference Committee Member* Seattle WA Conference \hfill 2015  
-*Conference Committee Member* Baltimore MD Conference \hfill 2014  
-North American Simulation and Game Association
+*Conference Committee Member*, Annual Conference (Seattle WA) \hfill 2015  
+*Conference Committee Member*, Annual Conference (Baltimore MD) \hfill 2014
+
+## Consulting
+
+Social Network Analysis, Katie Schenkel, Michigan State University \hfill 2018  
+Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University \hfill 2018  
 
 # Professional Experience
 
@@ -161,8 +168,9 @@ Birch Wayfinders, LLC \hfill Remote
 * Consulted with Nautilus Trackers, LLC on building machine learning into a hybrid training model
 
 *Graduate Assistant/Instructor* \hfill 2017-present  
-Department of Counseling, Educational Psychology, & Special Education \hfill East Lansing MI  
-Michigan State University, College of Education  
+Michigan State University, College of Education \hfill East Lansing MI  
+Department of Counseling, Educational Psychology, & Special Education  
+
 * Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
 * Taught CEP 817 -  Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
@@ -245,22 +253,22 @@ Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
 
 # Professional Affiliations
 
-*Association for Educational Communications & Technology* (AECT)  
-Research & Theory Division
+Association for Educational Communications & Technology (AECT)  
+*Research & Theory Division*
 
-*American Educational Research Association* (AERA)  
-Division C – Learning and Instruction  
-Division K – Teaching and Teacher Education  
-Teaching as an Agent of Change in Teaching & Learning (TACTL) SIG
+American Educational Research Association (AERA)  
+*Division C* – Learning and Instruction  
+*Division K* – Teaching and Teacher Education  
+*Teaching as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
-*Association of Internet Researchers* (AoIR)
+Association of Internet Researchers (AoIR)
 
-*Society for Information Technology and Teacher Education* (SITE)  
-Social Media SIG
+Society for Information Technology and Teacher Education (SITE)  
+*Social Media SIG*
 
 # References
 
-Available upon request, though likely would include my PhD advisors, Dr. Matthew J. Koehler and Dr. Christine M. Greenhow.
+Available upon request.
 
 ---
 
