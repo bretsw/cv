@@ -51,9 +51,7 @@ BA Mathematics & Sociology \hfill 1999-2003
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (under review). A time for all things: Comparing synchronous and asynchronous forms of participation in teacher-focused Twitter hashtags.
-
-Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (revise and resubmit). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags.
+Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (in press). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends, Research & Theory Division Special Issue.*
 
 Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Educating social scholars: Examining novice researchers’ practices with social media. *Qwerty – Open and Interdisciplinary Journal of Technology, Culture and Education, 12*(2), 30-45. Retrieved from http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269
 
@@ -170,7 +168,6 @@ Birch Wayfinders, LLC \hfill Remote
 *Graduate Assistant/Instructor* \hfill 2017-present  
 Michigan State University, College of Education \hfill East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
-
 * Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
 * Taught CEP 817 -  Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
@@ -236,8 +233,12 @@ Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
 # Further Training
+
 *Methods for Analyzing and Modeling Textual Data* \hfill 2018  
 Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
+
+*Getting and Cleaning Data* \hfill 2018  
+Certificate – Johns Hopkins University \hfill Coursera.org
 
 *The Data Scientist’s Toolbox* \hfill 2018  
 Certificate – Johns Hopkins University \hfill Coursera.org
@@ -265,10 +266,6 @@ Association of Internet Researchers (AoIR)
 
 Society for Information Technology and Teacher Education (SITE)  
 *Social Media SIG*
-
-# References
-
-Available upon request.
 
 ---
 
