@@ -47,6 +47,29 @@ MA Educational Technology \hfill 2012-2015
 *Bucknell University, College of Arts & Sciences*  
 BA Mathematics & Sociology \hfill 1999-2003
 
+# Further Training
+
+*Doctoral Colloquium* \hfill 2018  
+Association of Internet Researchers (AoIR) \hfill Montreal QC
+
+*Methods for Analyzing and Modeling Textual Data* \hfill 2018  
+Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
+
+*Getting and Cleaning Data* \hfill 2018  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*The Data Scientist’s Toolbox* \hfill 2018  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*R Programming* \hfill 2017  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*Serious Game Design and Research* \hfill 2014  
+Graduate Certificate – MSU College of Communication Arts & Sciences \hfill East Lansing MI
+
+*Game Design and Facilitation* \hfill 2012  
+Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
+
 # Publications
 
 ## Peer-Reviewed Journal Articles
@@ -231,26 +254,6 @@ Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
 *Calculus Tutor* – Department of Mathematics \hfill 1999-2000  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
-
-# Further Training
-
-*Methods for Analyzing and Modeling Textual Data* \hfill 2018  
-Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
-
-*Getting and Cleaning Data* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
-
-*The Data Scientist’s Toolbox* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
-
-*R Programming* \hfill 2017  
-Certificate – Johns Hopkins University \hfill Coursera.org
-
-*Serious Game Design and Research* \hfill 2014  
-Graduate Certificate – MSU College of Communication Arts & Sciences \hfill East Lansing MI
-
-*Game Design and Facilitation* \hfill 2012  
-Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
 
 # Professional Affiliations
 
