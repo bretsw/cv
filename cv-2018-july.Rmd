@@ -21,7 +21,7 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: R Markdown, academic CV, template
+keywords: academic CV, educational technology, teacher education, online communities
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -261,9 +261,9 @@ Association for Educational Communications & Technology (AECT)
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
-*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
-*Teaching as an Agent of Change in Teaching & Learning* (TACTL) SIG
+*Computer and Internet Applications in Education* (CIAE) SIG  
+*Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 Association of Internet Researchers (AoIR)
 
