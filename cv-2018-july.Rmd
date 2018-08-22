@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: ~/cv/svm-latex-cv.tex
+    template: ~/git/cv/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "CV"
@@ -100,6 +100,9 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Presentations
 
+**Staudt Willet**, K. B. (2018, October). Mixed methods social network analysis
+for understanding teacher participation and learning in digital spaces. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM), at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
+
 **Staudt Willet**, K. B. (2018, October). *Cyborg methods: The benefits of mixing human and machine coding.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
 **Staudt Willet**, K. B. (2018, October). *Self-promoters, bots, and moderators: Exploring educators’ participatory actions, roles, and culture in Twitter #Edchat.* Paper to be presented at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
@@ -152,6 +155,10 @@ Bucknell University \hfill Lewisburg PA
 
 Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) \hfill 2016  
 
+## Service to Department
+
+Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018  
+
 ## Service to Profession
 
 Association for Educational Communications & Technology (AECT)  
@@ -161,6 +168,7 @@ American Educational Research Association (AERA)
 *Session Presider/Chair*, Annual Meeting (New York NY) \hfill 2018
 
 Society for Information Technology and Teacher Education (SITE)  
+*Graduate Student Intern*, Social Media SIG \hfill 2018-2019  
 *Session Presider/Chair*, International Conference (Washington DC) \hfill 2018
 
 Passion Talks Conference (Google HQ, Mountain View CA)  
@@ -192,7 +200,8 @@ Birch Wayfinders, LLC \hfill Remote
 Michigan State University, College of Education \hfill East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 * Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
-* Taught CEP 817 -  Learning Technology through Design (Master’s)  
+* Taught CEP 813 - Electronic Assessment (Master’s)  
+* Taught CEP 817 - Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
 
 *Founding National Director* – Ministry in Digital Spaces \hfill 2014-2017  
@@ -200,7 +209,7 @@ InterVarsity Christian Fellowship/USA \hfill United States
 * Grew core staff team from 1 to 12  
 * Oversaw 51 projects related to online community building  
 * Supervised 8 project leads  
-* Hosted and directed 5 think tank gatherings  
+* Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)  
 * Managed annual budget of $500k  
 * Raised over $100k annually from individual donors
 
@@ -208,7 +217,7 @@ InterVarsity Christian Fellowship/USA \hfill United States
 InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania  
 * Supervised 17 different staff  
 * Directed 11 conferences for students from 7 colleges  
-* Delivered more than 100 talks at 13 different colleges and 8 conferences  
+* Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences  
 * Designed, developed, and facilitated 3 board/card games for training staff and students  
 * Developed and facilitated 30 training seminars for staff and students  
 * Raised over $100k annually from individual donors
