@@ -1,11 +1,12 @@
 ---
+title: "CV"
+
 output: 
   pdf_document:
     latex_engine: pdflatex
     template: ~/git/cv/svm-latex-cv.tex
 geometry: margin=1in
 
-title: "CV"
 author: K. Bret Staudt Willet
 
 jobtitle: "PhD Student, Michigan State University"
@@ -21,7 +22,7 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: academic CV, educational technology, teacher education, online communities
+keywords: academic CV, educational technology, teacher education, computational social science
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -86,7 +87,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Peer-Reviewed Conference Proceedings
 
-**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper to be presented at the Association of Internet Researchers (AoIR) Annual Conference 2018, Montreal, Quebec, Canada.
+**Staudt Willet**, K. B., & Willet, B. D. (2018, October). *Look who’s talking: Using human coding to establish a machine learning approach to Twitter education chats.* Paper to be presented at AoIR 2018: The 19th Annual Conference of the Association of Internet Researchers. Montreal, Canada: AoIR. Retrieved from http://spir.aoir.org
 
 **Staudt Willet**, K. B., & Reimer, P. N. (2018, March). The career you save may be your own: Exploring the mathtwitterblogosphere as a community of practice. In E. Langran & J. Borup (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2018* (pp. 2324-2329). Waynesville, NC: Association for the Advancement of Computing in Education (AACE).
 
@@ -200,7 +201,7 @@ Birch Wayfinders, LLC \hfill Remote
 Michigan State University, College of Education \hfill East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education  
 * Taught CEP 416 - Teaching & Learning with Technology (Undergraduate)  
-* Taught CEP 813 - Electronic Assessment (Master’s)  
+* Taught CEP 813 - Electronic Assessment for Teaching and Learning (Master’s)  
 * Taught CEP 817 - Learning Technology through Design (Master’s)  
 * Taught CEP 820 - Teaching Students Online (Master’s)
 
