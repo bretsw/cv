@@ -22,7 +22,7 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: social media, educational technology, teacher education
+keywords: social constructivism, social media, teacher education
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
