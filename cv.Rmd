@@ -43,7 +43,7 @@ urlcolor: blue
 
 *Michigan State University, College of Education*  
 PhD Educational Psychology & Educational Technology \hfill Expected 2021  
-MA Educational Technology \hfill 2015
+MA Educational Technology \hfill 2015  
 Graduate Certificate, Serious Game Design and Research \hfill 2014  
 
 *Bucknell University, College of Arts & Sciences*  
@@ -134,6 +134,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
 ## Invited Talks
+
+**Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI. 
 
 **Staudt Willet**, K. B. (2017, November). *Once more unto the practicum, dear friends: Research lessons from studying social interactions on social media.* Talk for EPET program brownbag seminar at Michigan State University: East Lansing, MI. 
 
