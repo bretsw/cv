@@ -22,14 +22,13 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: social constructivism, social media, teacher education
+keywords: social media, social learning, teacher education
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
-
 
 # credit to Steven Miller
 # http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
@@ -49,31 +48,33 @@ Graduate Certificate, Serious Game Design and Research \hfill 2014
 *Bucknell University, College of Arts & Sciences*  
 BA Mathematics & Sociology \hfill 2003
 
-# Further Training
+# Awards & Funding
 
-*Doctoral Colloquium* \hfill 2018  
-Association of Internet Researchers (AoIR) \hfill Montreal QC
+Nominated for *Best Paper Award* \hfill 2019  
+Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
+AERA Annual Meeting \hfill Toronto ON
 
-*Methods for Analyzing and Modeling Textual Data* \hfill 2018  
-Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
+*Council of Graduate Students (COGS) Professional Development Award* - $500 \hfill 2018   
+Michigan State University, College of Education \hfill East Lansing MI
 
-*Getting and Cleaning Data* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+*Summer Research Renewable Fellowship* - $6,000/year x 2 years \hfill 2018-2019  
+Michigan State University, College of Education \hfill East Lansing MI
 
-*The Data Scientist’s Toolbox* \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+*Outstanding Paper Award* \hfill 2017  
+SITE International Conference \hfill Austin TX
 
-*R Programming* \hfill 2017  
-Certificate – Johns Hopkins University \hfill Coursera.org
-
-*Game Design and Facilitation* \hfill 2012  
-Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
+*Presidential Fellowship* - $20,000/year x 3 years \hfill 2000-2003  
+Bucknell University \hfill Lewisburg PA
 
 # Publications
 
 ## Peer-Reviewed Journal Articles
 
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+
 Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (under review). Social scholarship revisited: Changing scholarly practices in the age of social media.
+
+**Staudt Willet**, K. B. (under review). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. (2018). Tweet, and we shall find: Using digital methods to locate participants in educational hashtags. *TechTrends.* Retrieved from https://doi.org/10.1007/s11528-018-0313-6
 
@@ -145,27 +146,6 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Staudt Willet**, K. B. (2014, March). *What games say.* Guest lecture for an undergraduate course in Film & Media at Millersville University: Millersville, PA. 
 
-# Awards & Funding
-
-Nominated for *Best Paper Award* \hfill 2019  
-Technology as an Agent of Change in Teaching in Learning (TACTL) SIG
-AERA Annual Meeting \hfill Toronto ON
-
-*Council of Graduate Students (COGS) Professional Development Award* - $500 \hfill 2018   
-Michigan State University, College of Education \hfill East Lansing MI
-
-*Summer Research Renewable Fellowship* - $6,000/year x 2 years \hfill 2018-2019  
-Michigan State University, College of Education \hfill East Lansing MI
-
-*Outstanding Paper Award* \hfill 2017  
-SITE International Conference \hfill Austin TX
-
-*Best Existing Film* \hfill 2014  
-Code for the Kingdom Hackathon \hfill Austin TX
-
-*Presidential Fellowship* - $20,000/year x 3 years \hfill 2000-2003  
-Bucknell University \hfill Lewisburg PA
-
 # Service
 
 ## Ad-hoc Journal Article Reviews
@@ -174,7 +154,7 @@ Learning, Media and Technology (with Dr. Christine Greenhow, faculty reviewer) \
 
 ## Service to Department
 
-Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018  
+Practicum Committee Member, Sarah Galvin, Michigan State University \hfill 2018-2019  
 Social Network Analysis, Katie Schenkel, Michigan State University \hfill 2018  
 Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State University \hfill 2018  
 
@@ -278,12 +258,33 @@ Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 *Calculus Tutor* – Department of Mathematics \hfill 1999-2000  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
+# Further Training
+
+*Doctoral Colloquium* \hfill 2018  
+Association of Internet Researchers (AoIR) \hfill Montreal QC
+
+*Methods for Analyzing and Modeling Textual Data* \hfill 2018  
+Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
+
+*Getting and Cleaning Data* \hfill 2018  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*The Data Scientist’s Toolbox* \hfill 2018  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*R Programming* \hfill 2017  
+Certificate – Johns Hopkins University \hfill Coursera.org
+
+*Game Design and Facilitation* \hfill 2012  
+Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
+
 # Professional Affiliations
 
 Association for Educational Communications & Technology (AECT)  
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
+*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
