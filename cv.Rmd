@@ -9,7 +9,7 @@ geometry: margin=1in
 
 author: K. Bret Staudt Willet
 
-jobtitle: "PhD Student, Michigan State University"
+jobtitle: "PhD Candidate, Michigan State University"
 # address: ""
 fontawesome: yes
 
@@ -50,9 +50,8 @@ BA Mathematics & Sociology \hfill 2003
 
 # Awards & Funding
 
-Nominated for *Best Paper Award* \hfill 2019  
-Technology as an Agent of Change in Teaching in Learning (TACTL) SIG  
-AERA Annual Meeting \hfill Toronto ON
+*Outstanding Paper Award* \hfill 2019  
+SITE International Conference \hfill Las Vegas NV
 
 *Research Practicum/Dissertation Development Fellowship* - $2,000 \hfill 2019  
 Michigan State University, College of Education \hfill East Lansing MI
@@ -73,9 +72,9 @@ Bucknell University \hfill Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
+Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in press). Social scholarship revisited: Changing scholarly practices in the age of social media. *British Journal of Educational Technology.*
 
-Greenhow, C. M., Gleason, B., & **Staudt Willet**, K. B. (in revision). Social scholarship revisited: Changing scholarly practices in the age of social media.
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in revision). Religious practices in online spaces: Practices, identities, and networks in Twitter #ldsconf.
 
 **Staudt Willet**, K. B. (in revision). Revisiting how and why educators use Twitter: Uses and gratifications in #Edchat.
 
@@ -115,6 +114,12 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 ## Peer-Reviewed Conference Presentations
 
+Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.*
+
+**Staudt Willet**, K. B., & Bagdy, L. (under review). *How do you do, fellow kids? "New teachers" in Twitter #ntchat.*
+
+**Staudt Willet**, K. B., & Moudgalya, S. K. (under review). *Community, network, or space: Conceptualizing inspired professional learning in an online discussion forum.*
+
 **Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
 
 Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *International participation and perspectives in online Mormon conversations.* Paper to be presented at the Decentered Mormonism Conference 2019. Bordeaux, France.
@@ -143,6 +148,10 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
+## Conference Workshops
+
+Rosenberg, J. M., **Staudt Willet**, K. B., & Greenhalgh, S. P. (under review). *Online data and open source tools: Analyzing educational Internet data using R.*
+
 ## Invited Talks
 
 **Staudt Willet**, K. B. (2018, November). *Bigger is not always better: Revisiting how and why educators use Twitter #Edchat.* Talk for EPET PhD program brownbag seminar at Michigan State University: East Lansing, MI. 
@@ -170,6 +179,7 @@ Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State Universi
 
 Association for Educational Communications & Technology (AECT)  
 *Graduate Student Representative*, Research & Theory Division \hfill 2018-2019
+*Webinar Team Leader*, Graduate Student Association Division \hfill 2018-2019
 
 American Educational Research Association (AERA)  
 *Session Presider/Chair*, Annual Meeting (New York NY) \hfill 2018
@@ -193,10 +203,6 @@ North American Simulation and Game Association (NASAGA)
 *Conference Committee Member*, Annual Conference (Baltimore MD) \hfill 2014
 
 # Professional Experience
-
-*Co-Founder* \hfill 2018-present  
-Birch Wayfinders, LLC \hfill Remote  
-* Consulted with Nautilus Trackers, LLC on building machine learning into a hybrid training model
 
 *Graduate Assistant/Instructor* \hfill 2017-present  
 Michigan State University, College of Education \hfill East Lansing MI  
@@ -303,4 +309,3 @@ Society for Information Technology and Teacher Education (SITE)
 *Social Media SIG*
 
 ---
-
