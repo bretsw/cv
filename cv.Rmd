@@ -114,6 +114,10 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE).
 
+## Peer-Reviewed Conference Workshops
+
+Rosenberg, J. M., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational Internet data using R.* Workshop to be facilitated at the Association for Educational Communications and Technology (AECT) International Convention 2019. Las Vegas, NV
+
 ## Peer-Reviewed Conference Presentations
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (under review). *Twitter hashtags and religious learning: Mormon identity and participatory practice in #ldsconf.*
@@ -126,7 +130,7 @@ Greenhow, C. M., **Staudt Willet**, K. B., & Marich, H. (2019, July). Scholarshi
 
 **Staudt Willet**, K. B. (2019, April). *Is bigger better? Exploring educators’ uses and gratifications in Twitter #Edchat.* Paper to be presented at the American Educational Research Association (AERA) Annual Meeting 2019. Toronto, ON, Canada. 
 
-Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *International participation and perspectives in online Mormon conversations.* Paper to be presented at the Decentered Mormonism Conference 2019. Bordeaux, France.
+Greenhalgh, S. P., Koehler, M. J., & **Staudt Willet**, K. B. (2019, March). *International participation and perspectives in online Mormon conversations.* Paper presented at the Decentered Mormonism Conference 2019. Bordeaux, France.
 
 **Staudt Willet**, K. B. (2018, October). Teacher participation in digital spaces: What kinds of learning spaces are on Reddit?. *Research in Text Mining, Social Network Analysis, Learning Analytics, & Adaptive Learning.* Graduate student panel discussion hosted by the International Council for Educational Media (ICEM) at the Association for Educational Communications and Technology (AECT) International Convention 2018. Kansas City, MO.
 
