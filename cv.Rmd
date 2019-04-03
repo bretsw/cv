@@ -22,7 +22,7 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: networked learning, social media, educational technology
+keywords: networked learning, teacher learning, teacher induction, social media, educational technology
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -187,6 +187,7 @@ Content Analysis for Doctoral Dissertation, Colin Terry, Michigan State Universi
 
 Association for Educational Communications & Technology (AECT)  
 *Secretary*, Research & Theory Division \hfill 2019-2020  
+*Conference Proposal Reviewer*, Research & Theory Division \hfill 2019
 *Graduate Student Representative*, Research & Theory Division \hfill 2018-2019  
 *Webinar Team Leader*, Graduate Student Association Division \hfill 2018-2019
 
@@ -308,7 +309,6 @@ Association for Educational Communications & Technology (AECT)
 *Research & Theory Division*
 
 American Educational Research Association (AERA)  
-*Division C* – Learning and Instruction  
 *Division K* – Teaching and Teacher Education  
 *Computer and Internet Applications in Education* (CIAE) SIG  
 *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
