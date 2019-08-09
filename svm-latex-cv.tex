@@ -168,8 +168,8 @@ $endfor$
 
 % Custom section fonts
 \usepackage{sectsty}
-\sectionfont{\rmfamily\mdseries\large\bf}
-\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+\sectionfont{\rmfamily\mdseries\large\bf\centering}
+\subsectionfont{\rmfamily\mdseries\large\bf\itshape}
 
 
 % Make lists without bullets
@@ -187,6 +187,12 @@ $endfor$
 \usepackage{titlesec}
 \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
 \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+% spacing: how to read {12pt plus 4pt minus 2pt}
+% 12pt is what we would like the spacing to be
+% plus 4pt means that TeX can stretch it by at most 4pt
+% minus 2pt means that TeX can shrink it by at most 2pt
+%       This is one example of the concept of, 'glue', in TeX
+
 
 % Use fontawesome. Note: you'll need TeXLive 2015. Update.
 $if(fontawesome)$\usepackage{fontawesome}$endif$
@@ -226,8 +232,9 @@ $endif$
             breaklinks=true, bookmarks=true}
 \urlstyle{same}  % don't use monospace font for urls
 
-\begin{document}
 
+
+\begin{document}
 
 \centerline{\huge \bf $author$}
 
