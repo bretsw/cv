@@ -45,9 +45,9 @@ urlcolor: blue
 
 * PhD, Educational Psychology & Educational Technology \hfill 2021 (expected)
     + Dissertation: *Bridge between worlds: Early-career educators navigating induction with Twitter*
-    + Committee: Matthew Koehler, Christine Greenhow
-    + Proposal defense \hfill September 2019 (expected)
-    + Advanced to candidacy \hfill February 3, 2019
+    + Committee: \hfill Matthew Koehler, Christine Greenhow
+    + Proposal defense: \hfill September 2019 (expected)
+    + Advanced to candidacy: \hfill February 3, 2019
 
 * MA, Educational Technology \hfill 2015
 
@@ -208,6 +208,7 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 ## Journal Article Reviews
 
 * *Internet and Higher Education* \hfill 2019
+* *American Journal of Education* (with Dr. Jeffrey Carpenter, faculty review) \hfill 2019
 * *Learning, Media and Technology* (with Dr. Christine Greenhow, faculty reviewer) \hfill 2016
 
 ## Service to Department
