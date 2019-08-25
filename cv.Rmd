@@ -41,21 +41,20 @@ urlcolor: blue
 
 # Education
 
-**Michigan State University**, College of Education
+**Michigan State University**, College of Education  
+PhD, Educational Psychology & Educational Technology \hfill 2021 (expected)
 
-* PhD, Educational Psychology & Educational Technology \hfill 2021 (expected)
-    + Dissertation: *Bridge between worlds: Early-career educators navigating induction with Twitter*
-    + Committee: \hfill Matthew Koehler, Christine Greenhow
-    + Proposal defense: \hfill September 2019 (expected)
-    + Advanced to candidacy: \hfill February 3, 2019
+* Dissertation: *Into the edu-verse: Early-career educators navigating induction challenges with social media*
+* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam
+* Proposal defense: September 2019 (expected)
+* Advanced to candidacy: February 3, 2019
 
-* MA, Educational Technology \hfill 2015
+MA, Educational Technology \hfill 2015
 
-* Graduate Certificate, Serious Game Design and Research \hfill 2014  
+Graduate Certificate, Serious Game Design and Research \hfill 2014  
 
-**Bucknell University**, College of Arts & Sciences
-
-* BA, Mathematics & Sociology \hfill 2003
+**Bucknell University**, College of Arts & Sciences  
+BA, Mathematics & Sociology \hfill 2003
 
 # Awards & Funding
 
