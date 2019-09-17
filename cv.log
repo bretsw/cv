@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  13 SEP 2019 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  17 SEP 2019 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,11 +672,11 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 866.
  ) 
 Here is how much of TeX's memory you used:
- 14013 strings out of 492649
- 200651 string characters out of 6129622
+ 14003 strings out of 492649
+ 200556 string characters out of 6129622
  307334 words of memory out of 5000000
  17426 multiletter control sequences out of 15000+600000
- 55468 words of font info for 282 fonts, out of 8000000 for 9000
+ 54901 words of font info for 274 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,12n,50p,736b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
@@ -692,7 +692,7 @@ xlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2018/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (8 pages, 142341 bytes).
+Output written on cv.pdf (8 pages, 142248 bytes).
 PDF statistics:
  192 PDF objects out of 1000 (max. 8388607)
  172 compressed objects within 2 object streams
