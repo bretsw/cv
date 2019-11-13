@@ -38,7 +38,6 @@ urlcolor: blue
 
 ---
 
-
 # Education
 
 **Michigan State University**, College of Education  
@@ -382,7 +381,8 @@ Association for Educational Communications & Technology (AECT)
 
 American Educational Research Association (AERA)
 
-* *Division K* – Teaching and Teacher Education
+* *Division C* – Learning & Instruction
+* *Division K* – Teaching & Teacher Education
 * *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 Association of Internet Researchers (AoIR)
