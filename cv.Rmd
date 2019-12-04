@@ -88,15 +88,15 @@ Bucknell University \hfill Lewisburg PA
 
 ## Peer-Reviewed Journal Articles
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
+**Staudt Willet**, K. B., & Carpenter, J. P. (in revision). Teachers on Reddit? Exploring contributions and interaction in four education-related subreddits.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (in revision). It's about time! Comparing synchronous and asynchronous activity in a teacher-focused Twitter hashtag.
-
-Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (in press). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhalgh, S. P., **Staudt Willet**, K. B., & Koehler, M. J. (in press). Approaches to Mormon identity and practice in the #ldsconf Twitter space. *Journal of Media and Religion*.
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (in press). Foregrounding technoethics: Toward critical perspectives in technology and teacher education. *Journal of Technology and Teacher Education*.
+
+Carpenter, J. P., **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2019). Spam and educators’ Twitter use: Methodological considerations and challenges. *TechTrends*. https://doi.org/10.1007/s11528-019-00466-3
 
 Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2019). What should be the role of social media in education? *Policy Insights from the Behavioral and Brain Sciences, 6*(2), 178-185. https://doi.org/10.1177/2372732219865290
 
@@ -122,11 +122,11 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (in revision). Research 
 
 ## Peer-Reviewed Conference Proceedings
 
-**Staudt Willet**, K. B. (under review). *Early-career educators’ experiences with social media during induction*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+**Staudt Willet**, K. B. (2020, April). *Early-career educators’ experiences with social media during induction*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
-**Staudt Willet**, K. B. (under review). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
+**Staudt Willet**, K. B. (2020, April). *The hashtag-thread mashup: How educators talk to each other in Twitter #Edchat*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA.
 
-**Staudt Willet**, K. B., & Carpenter, J. P. (under review). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper proposed for the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
+**Staudt Willet**, K. B., & Carpenter, J. P. (2020, April). *For the longest time: Continuity and change in one teaching-related subreddit*. Paper to be presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020. New Orleans, LA. 
 
 Carpenter, J. P., Koehler, M. J., **Staudt Willet**, K. B., & Greenhalgh, S. P. (2019, March). Spam, spam, spam, spam: Methodological considerations and challenges for studying educators’ Twitter use. In K. Graziano (Ed.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2019* (pp. 2702-2711). Las Vegas, NV: Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/p/208033/
 
