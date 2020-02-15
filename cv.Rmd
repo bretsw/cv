@@ -58,34 +58,34 @@ BA, Mathematics & Sociology \hfill 2003
 # Awards & Funding
 
 *Research Practicum/Dissertation Development Fellowship* - $1,300 \hfill 2020  
-Michigan State University, College of Education \hfill East Lansing MI
+College of Education, Michigan State University \hfill East Lansing MI
 
 *Disciplinary Leadership Award* - $2,000 \hfill 2019  
-Michigan State University, Council of Graduate Students - East Lansing MI
+Council of Graduate Students, Michigan State University \hfill East Lansing MI
 
 *Outstanding Paper Award* \hfill 2019  
 SITE International Conference \hfill Las Vegas NV
 
 *Research Practicum/Dissertation Development Fellowship* - $2,000 \hfill 2019  
-Michigan State University, College of Education \hfill East Lansing MI
+College of Education, Michigan State University \hfill East Lansing MI
 
 *Student Research Conference Travel Fellowship* - $1,050 \hfill 2019  
 Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. \hfill East Lansing MI
 
 *Summer Research Renewable Fellowship* - $12,000 \hfill 2018-2019  
-Michigan State University, College of Education \hfill East Lansing MI
+College of Education, Michigan State University \hfill East Lansing MI
 
 *Professional Development Award* - $500 \hfill 2018  
-Michigan State University, Council of Graduate Students \hfill East Lansing MI
+Council of Graduate Students, Michigan State University \hfill East Lansing MI
 
 *Student Research Conference Travel Fellowship* - $795 \hfill 2018  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. \hfill East Lansing MI
+Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State University \hfill East Lansing MI
 
 *Outstanding Paper Award* \hfill 2017  
 SITE International Conference \hfill Austin TX
 
 *Student Research Conference Travel Fellowship* - $930 \hfill 2017  
-Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. \hfill East Lansing MI
+Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State University \hfill East Lansing MI
 
 *Presidential Fellowship* - $20,000/year x 3 years \hfill 2000-2003  
 Bucknell University \hfill Lewisburg PA
@@ -298,43 +298,32 @@ Educational Technology and Learning Design program
 *Founding National Director* – Ministry in Digital Spaces \hfill 2014-2017  
 InterVarsity Christian Fellowship/USA \hfill United States
 
-* Grew core staff team from 1 to 12
 * Oversaw 51 projects related to online community building
 * Supervised 8 project leads
 * Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
-* Managed annual budget of $500k
-* Raised over $100k annually from individual donors
 
 *Area Director* \hfill 2009-2014  
 InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania
 
 * Supervised 17 different staff
-* Directed 11 conferences for students from 7 colleges
+* Directed 11 conferences for undergraduate students from 7 colleges
 * Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
-* Designed, developed, and facilitated 3 board/card games for training staff and students
 * Developed and facilitated 30 training seminars for staff and students
-* Raised over $100k annually from individual donors
 
-*Associate Area Director* \hfill 2009-2014  
+*Associate Area Director* \hfill 2008-2009  
 InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania
 
 * Supervised 1 staff
 * Trained 4 interns
-* Raised over $100k annually from individual donors
 
-*Chapter Planter* – Lebanon Valley College; Millersville University; Penn State Harrisburg \hfill 2007-2009  
-InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania
-
-* Started chapters at 3 college campuses
-
-*Director* – Summer Urban Program \hfill 2006; 2009-2012  
-InterVarsity Christian Fellowship/USA \hfill Lancaster PA
+*Director* – Summer Urban Program in Lancaster PA \hfill 2006; 2009-2012  
+InterVarsity Christian Fellowship/USA
 
 * Designed and facilitated five 6-week immersive learning programs for undergraduate students
 * Received training in Mexico City, Mexico
 
-*Director* – Summer Global Program \hfill 2005  
-InterVarsity Christian Fellowship/USA \hfill Manila, Philippines
+*Director* – Summer Global Program in Manila, Philippines \hfill 2005  
+InterVarsity Christian Fellowship/USA
 
 * Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
 * Received training in Addis Ababa, Ethiopia
@@ -343,16 +332,14 @@ InterVarsity Christian Fellowship/USA \hfill Manila, Philippines
 InterVarsity Christian Fellowship/USA \hfill Lancaster PA
 
 * Trained, coached, and supported more than 50 different undergraduate student volunteer leaders
-* Participated in a National Chapter Building Cohort (2006–2007)
 * Apprenticed under international students to learn to cook food from Taiwan, China, Thailand, Japan, India, Nigeria, and Ghana
-* Raised over $50k annually from individual donors
 
-*Research Assistant* – Department of Sociology \hfill 2002-2003  
+*Presidential Fellow: Research Assistant* – Department of Sociology \hfill 2002-2003  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
 * Reviewed literature in social psychology and situational identity
 
-*Research Assistant* – Department of Mathematics \hfill 2000-2002  
+*Presidential Fellow: Research Assistant* – Department of Mathematics \hfill 2000-2002  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
 * Assisted with research in L-functions and Maass form deformations
@@ -393,6 +380,7 @@ Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
 Association for Educational Communications & Technology (AECT)
 
 * *Research & Theory Division*
+* *Teacher Education Division*
 
 American Educational Research Association (AERA)
 
