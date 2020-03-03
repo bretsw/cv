@@ -40,20 +40,21 @@ urlcolor: blue
 
 # Education
 
-**Michigan State University**, College of Education  
-PhD, Educational Psychology & Educational Technology \hfill 2021 (expected)
+**Michigan State University**, College of Education
 
-* Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
-* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
-* Defended proposal: November 26, 2019 [View slides](https://bretsw.github.io/dissertation-proposal/)
-* Advanced to candidacy: February 3, 2019
+* **PhD**, Educational Psychology & Educational Technology \hfill 2021 (expected)
+  * - Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
+  * - Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
+  * - Defended proposal: November 26, 2019 [View slides](https://bretsw.github.io/dissertation-proposal/)
+  * - Advanced to candidacy: February 3, 2019
+* **MA**, Educational Technology \hfill 2015
+* **Graduate Certificate**, Serious Game Design and Research \hfill 2014
 
-MA, Educational Technology \hfill 2015
+**Bucknell University**, College of Arts & Sciences
 
-Graduate Certificate, Serious Game Design and Research \hfill 2014  
+* **BA**, Mathematics & Sociology \hfill 2003
 
-**Bucknell University**, College of Arts & Sciences  
-BA, Mathematics & Sociology \hfill 2003
+---
 
 # Awards & Funding
 
@@ -89,6 +90,8 @@ Dept. of Counseling, Educational Psychology, & Special Ed., Michigan State Unive
 
 *Presidential Fellowship* - $20,000/year x 3 years \hfill 2000-2003  
 Bucknell University \hfill Lewisburg PA
+
+---
 
 # Publications
 
@@ -200,6 +203,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 **Willet**, K. B. (2001, February). *The shortest closed path on an arithmetic surface.* Paper presented at Moravian College Student Mathematics Conference 2001. Bethlehem, PA.
 
+---
+
 # Teaching
 
 ## Courses
@@ -239,6 +244,8 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 * Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) \hfill 2018-2019
 * Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) \hfill 2018
 * Data analyst, *Content analysis for doctoral dissertation* (Colin Terry, MSU) \hfill 2018
+
+---
 
 # Service
 
@@ -281,6 +288,8 @@ North American Simulation and Game Association (NASAGA)
 * *Board Member* \hfill 2013-2015
 * *Conference Committee Member*, Annual Conference (Seattle WA) \hfill 2015
 * *Conference Committee Member*, Annual Conference (Baltimore MD) \hfill 2014
+
+---
 
 # Professional Experience
 
@@ -353,6 +362,8 @@ Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 *Calculus Tutor* – Department of Mathematics \hfill 1999-2000  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
+---
+
 # Further Training
 
 *Exploratory Data Analysis* \hfill 2019  
@@ -375,6 +386,8 @@ Certificate – Johns Hopkins University \hfill Coursera.org
 
 *Game Design and Facilitation* \hfill 2012  
 Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
+
+---
 
 # Professional Affiliations
 
