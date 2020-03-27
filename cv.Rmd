@@ -13,7 +13,7 @@ jobtitle: "PhD Candidate, Michigan State University"
 # address: ""
 fontawesome: yes
 
-email: bret@bretsw.com
+email: staudtwi@msu.edu
 twitter: bretsw
 github: bretsw
 linkedin: bretsw
@@ -22,7 +22,7 @@ web: bretsw.com
 # phone: ""
 updated: yes
 
-keywords: teacher networks, social media, educational technology
+keywords: networked learning, social media, educational technology
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
