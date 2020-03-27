@@ -220,7 +220,7 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 * \* Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning. 
 * \* Students develop plans for integrating technology in classroom.
-* \* The semester-long project is to design a professional online portfolio.
+* \* The semester-long project is to design a professional *online portfolio*.
 
 **Learning Technology through Design** (Master’s, online, 3x) \hfill 2018-present
 
@@ -237,8 +237,8 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 **Teaching Students Online** (Master’s, online, 1x) \hfill 2017
 
 * \* Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management.
-* \* Students playfully explore Google Apps, CMSs, screencasting tools, and file management systems.
-* \* The semester-long project is to design a curriculum for an *online course module* of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
+* \* Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
+* \* The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
 ## Instructional Activities & Workshops (10)
 
