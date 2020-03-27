@@ -44,9 +44,9 @@ urlcolor: blue
 
 **PhD**, Educational Psychology & Educational Technology \hfill Expected October 2020
 
-  * Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
-  * Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
-  * Defended proposal: November 26, 2019
+  * \* Dissertation: *Into the edu-verse: Early-career educators seeking induction support on social media*
+  * \* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
+  * \* Defended proposal: November 26, 2019
   
 **MA**, Educational Technology \hfill 2015  
 **Graduate Certificate**, Serious Game Design and Research \hfill 2014
@@ -214,12 +214,31 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 # Teaching
 
-## Courses
+## Courses Taught (4)
 
-Instructor, *Teaching & Learning with Technology* (Undergraduate, online, 6x) \hfill 2017-present
-Instructor, *Learning Technology through Design* (Master’s, online, 3x) \hfill 2018-present
-Instructor, *Electronic Assessment for Teaching and Learning* (Master’s, online, 2x) \hfill 2018-present
-Instructor, *Teaching Students Online* (Master’s, online, 1x) \hfill 2017
+**Teaching & Learning with Technology** (Undergraduate, online, 6x) \hfill 2017-present
+
+* \* Course topics include design thinking, universal design for learning, media & information literacy, professional learning networks, computational thinking, and play-based learning. 
+* \* Students develop plans for integrating technology in classroom.
+* \* The semester-long project is to design a professional online portfolio.
+
+**Learning Technology through Design** (Master’s, online, 3x) \hfill 2018-present
+
+* \* Course topics include design thinking, the design process (empathize, define, ideate, prototype, test), designing for learners, iterative design. and collaboration in design.
+* \* Students discuss examples of good and bad designs from everyday life.
+* \* The semester-long project is to work through one cycle of the design process to address a *problem of practice* from the student's professional context.
+
+**Electronic Assessment for Teaching and Learning** (Master’s, online, 2x) \hfill 2018-present
+
+* \* Course topics include foundational theories of assessment, formative assessment, feedback, and a critical examination of methods for assessment (e.g., portfolios, rubrics, surveys, tests, self-evaluations).
+* \* Students develop an *assessment design checklist* to use in their own professional practice.
+* \* The semester-long project is to plan a *formative assessment design* to implement in their own context.
+
+**Teaching Students Online** (Master’s, online, 1x) \hfill 2017
+
+* \* Course topics include foundations for online learning, course management systems, various models of online course design, instructor-student communication, assessment, universal design for learning, and online classroom management.
+* \* Students playfully explore Google Apps, CMSs, screencasting tools, and file management systems.
+* \* The semester-long project is to design a curriculum for an *online course module* of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
 ## Instructional Activities & Workshops (10)
 
@@ -245,55 +264,54 @@ Instructor, *Teaching Students Online* (Master’s, online, 1x) \hfill 2017
 
 ## Mentoring and Advising
 
-* Graduate mentor, *Master's course instruction* (William Bork, MSU) \hfill 2019-2020
-* Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) \hfill 2019
-* Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) \hfill 2018-2019
-* Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) \hfill 2018-2019
-* Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) \hfill 2018
-* Data analyst, *Content analysis for doctoral dissertation* (Colin Terry, MSU) \hfill 2018
-* Graduate mentor, *Undergraduate course instruction* (Sukanya Moudgalya, MSU) \hfill 2017-2018
+\* Graduate mentor, *Master's course instruction* (William Bork, MSU) \hfill 2019-2020  
+\* Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) \hfill 2019  
+\* Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) \hfill 2018-2019  
+\* Graduate mentor, *Undergraduate course instruction* (Matthew Drazin, MSU) \hfill 2018-2019  
+\* Data analyst, *Social network analysis for doctoral project* (Katie Schenkel, MSU) \hfill 2018  
+\* Data analyst, *Content analysis for doctoral dissertation* (Colin Terry, MSU) \hfill 2018  
+\* Graduate mentor, *Undergraduate course instruction* (Sukanya Moudgalya, MSU) \hfill 2017-2018
 
 ---
 
 # Service
 
-## Journal Article Reviews
+## Journal Article Reviews (4)
 
-* *Internet and Higher Education* (2) \hfill 2019
-* *American Journal of Education*, with Dr. Jeffrey Carpenter, faculty reviewer \hfill 2019
-* *Learning, Media and Technology*, with Dr. Christine Greenhow, faculty reviewer \hfill 2016
+\* *Internet and Higher Education* (2) \hfill 2019  
+\* *American Journal of Education*, with Dr. Jeffrey Carpenter, faculty reviewer \hfill 2019  
+\* *Learning, Media and Technology*, with Dr. Christine Greenhow, faculty reviewer \hfill 2016
 
 ## Service in Professional Organizations
 
 **Association for Educational Communications & Technology (AECT)**
 
-* *Communications Officer*, Research & Theory Division \hfill 2020-2021
-* *Secretary*, Research & Theory Division \hfill 2019-2020
-* *Conference Proposal Reviewer* \hfill 2019-2020
-* *Graduate Student Representative*, Research & Theory Division \hfill 2018-2019
-* *Webinar Team Leader*, Graduate Student Association \hfill 2018-2019
+* \* *Communications Officer*, Research & Theory Division \hfill 2020-2021
+* \* *Secretary*, Research & Theory Division \hfill 2019-2020
+* \* *Conference Proposal Reviewer* \hfill 2019-2020
+* \* *Graduate Student Representative*, Research & Theory Division \hfill 2018-2019
+* \* *Webinar Team Leader*, Graduate Student Association \hfill 2018-2019
 
 **Society for Information Technology and Teacher Education (SITE)**
 
-* *Co-Chair*, Social Media SIG \hfill 2019-2021
-* *Conference Proposal Reviewer* \hfill 2020
-* *Graduate Student Intern*, Social Media SIG \hfill 2018-2019
+* \* *Co-Chair*, Social Media SIG \hfill 2019-2021
+* \* *Conference Proposal Reviewer* \hfill 2020
+* \* *Graduate Student Intern*, Social Media SIG \hfill 2018-2019
 
 **Passion Talks Conference (Google HQ, Mountain View CA)**
 
-* *Science, Technology, & Innovation Track Chair* \hfill 2017
-* *Conference Executive Committee Member* \hfill 2017
+* \* *Science, Technology, & Innovation Track Chair* \hfill 2017
+* \* *Conference Executive Committee Member* \hfill 2017
 
 **Urbana International Conference (St. Louis MO)**
 
-* *Hackathon Core Leadership Team Member* \hfill 2015
-* *Hackathon Mentor Coordinator* \hfill 2015
+* \* *Hackathon Core Leadership Team Member* \hfill 2015
+* \* *Hackathon Mentor Coordinator* \hfill 2015
 
 **North American Simulation and Game Association (NASAGA)**
 
-* *Board Member* \hfill 2013-2015
-* *Conference Committee Member*, Annual Conference (Seattle WA) \hfill 2015
-* *Conference Committee Member*, Annual Conference (Baltimore MD) \hfill 2014
+* \* *Board Member* \hfill 2013-2015
+* \* *Conference Committee Member*, Annual Conference (Baltimore MD, Seattle WA) \hfill 2014-2015
 
 ---
 
@@ -303,60 +321,60 @@ Instructor, *Teaching Students Online* (Master’s, online, 1x) \hfill 2017
 Michigan State University, College of Education \hfill East Lansing MI  
 Department of Counseling, Educational Psychology, & Special Education
 
-* Taught courses at the Master's and undergraduate levels
+* \* Taught courses at the Master's and undergraduate levels
 
 **Course Writer** \hfill 2019  
 Concordia University, College of Education \hfill Portland OR  
 Educational Technology and Learning Design program
 
-* Wrote course: *The Evolving Landscape of Educational Technology* (Master's)
+* \* Wrote course: *The Evolving Landscape of Educational Technology* (Master's)
 
 **Founding National Director, Ministry in Digital Spaces** \hfill 2014-2017  
 InterVarsity Christian Fellowship/USA \hfill United States
 
-* Managed 51 projects related to online community building
-* Supervised 8 project leads
-* Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
+* \* Managed 51 projects related to online community building
+* \* Supervised 8 project leads
+* \* Hosted and directed 5 think tank gatherings (Atlanta, Austin, San Francisco)
 
 **Area Director** \hfill 2009-2014  
 InterVarsity Christian Fellowship/USA \hfill South Central Pennsylvania
 
-* Supervised 17 different staff
-* Directed 11 conferences for undergraduate students from 7 colleges
-* Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
-* Designed and facilitated 30 training seminars for staff and students
+* \* Supervised 17 different staff
+* \* Directed 11 conferences for undergraduate students from 7 colleges
+* \* Delivered more than 100 talks at 13 different colleges and 8 inter-collegiate conferences
+* \* Designed and facilitated 30 training seminars for staff and students
 
 **Director**, Summer Justice Program in Lancaster PA \hfill 2006; 2009-2012  
 InterVarsity Christian Fellowship/USA
 
-* Designed and facilitated five 6-week immersive learning programs for undergraduate students
-* Received training in Mexico City, Mexico
+* \* Designed and facilitated five 6-week immersive learning programs for undergraduate students
+* \* Received training in Mexico City, Mexico
 
 **Director**, Summer Justice Program in Manila, Philippines \hfill 2005  
 InterVarsity Christian Fellowship/USA
 
-* Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
-* Received training in Addis Ababa, Ethiopia
+* \* Designed and facilitated a 6-week immersive, experiential learning program for undergraduate students
+* \* Received training in Addis Ababa, Ethiopia
 
 **Campus Staff Minster**, Franklin & Marshall College \hfill 2003-2007  
 InterVarsity Christian Fellowship/USA \hfill Lancaster PA
 
-* Trained, coached, and supported more than 50 different undergraduate student volunteer leaders
+* \* Trained, coached, and supported more than 50 different undergraduate student volunteer leaders
 
 **Presidential Fellow: Research Assistant**, Department of Sociology \hfill 2002-2003  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
-* Reviewed literature in social psychology and situational identity
+* \* Reviewed literature in social psychology and situational identity
 
 **Presidential Fellow: Research Assistant**, Department of Mathematics \hfill 2000-2002  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
-* Assisted with research in L-functions and Maass form deformations
+* \* Assisted with research in L-functions and Maass form deformations
 
 **Research Intern: Summer Research Experience for Undergraduates** (REU), Dept. of Mathematics \hfill 2000  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
-* Assisted with research in L-functions and Maass form deformations
+* \* Assisted with research in L-functions and Maass form deformations
 
 **Calculus Tutor**, Department of Mathematics \hfill 1999-2000  
 Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
