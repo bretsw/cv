@@ -59,6 +59,9 @@ urlcolor: blue
 
 # Awards
 
+**Clifford E. Erickson Memorial Fund Scholarship** \hfill 2020  
+Michigan State University, College of Education \hfill East Lansing MI
+
 **Outstanding Paper Award** \hfill 2020  
 Society for Information Technology & Teacher Education (SITE) International Conference \hfill Online
 
@@ -187,7 +190,13 @@ Greenhalgh, S. P., **Staudt Willet**, K. B., Rosenberg, J. M., & Koehler, M. J. 
 
 # Funding 
 
-## TOTAL: $20,575
+## TOTAL: $26,675
+
+**Clifford E. Erickson Memorial Fund Scholarship: $5,500** \hfill 2020  
+Michigan State University, College of Education \hfill East Lansing MI
+
+**Student Research Conference Travel Fellowship: $600** \hfill 2020  
+Michigan State University, Dept. of Counseling, Educational Psychology, & Special Ed. \hfill East Lansing MI
 
 **Research Practicum/Dissertation Development Fellowship: $1,300** \hfill 2020  
 Michigan State University, College of Education \hfill East Lansing MI
