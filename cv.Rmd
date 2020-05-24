@@ -302,6 +302,10 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ## Service in Professional Organizations
 
+**American Educational Research Association (AERA)** 
+
+* \* *Conference Proposal Reviewer* \hfill 2020
+
 **Association for Educational Communications & Technology (AECT)**
 
 * \* *Communications Officer*, Research & Theory Division \hfill 2020-2021
@@ -401,8 +405,11 @@ Bucknell University, College of Arts & Sciences \hfill Lewisburg PA
 
 # Further Training
 
+**Reproducible Research** \hfill 2020  
+Course Certificate – Johns Hopkins University \hfill Coursera.org
+
 **Exploratory Data Analysis** \hfill 2019  
-Certificate – Johns Hopkins University \hfill Coursera.org
+Course Certificate – Johns Hopkins University \hfill Coursera.org
 
 **Doctoral Colloquium** \hfill 2018  
 Association of Internet Researchers (AoIR) \hfill Montreal QC
@@ -411,13 +418,13 @@ Association of Internet Researchers (AoIR) \hfill Montreal QC
 Summer School Series on Methods for Computational Social Science \hfill Los Angeles CA
 
 **Getting and Cleaning Data** \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+Course Certificate – Johns Hopkins University \hfill Coursera.org
 
 **The Data Scientist’s Toolbox** \hfill 2018  
-Certificate – Johns Hopkins University \hfill Coursera.org
+Course Certificate – Johns Hopkins University \hfill Coursera.org
 
 **R Programming** \hfill 2017  
-Certificate – Johns Hopkins University \hfill Coursera.org
+Course Certificate – Johns Hopkins University \hfill Coursera.org
 
 **Game Design and Facilitation** \hfill 2012  
 Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
@@ -428,15 +435,15 @@ Workshop Certificate – The Thiagi Group at NASAGA \hfill Columbus OH
 
 **Association for Educational Communications & Technology (AECT)**
 
-* *Research & Theory Division*
+* \* *Research & Theory Division*
 
 **American Educational Research Association (AERA)**
 
-* *Division C* – Learning & Instruction
-* *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
+* \* *Division C* – Learning & Instruction
+* \* *Technology as an Agent of Change in Teaching & Learning* (TACTL) SIG
 
 **Society for Information Technology and Teacher Education (SITE)**
 
-* *Social Media SIG*
+* \* *Social Media SIG*
 
 ---
