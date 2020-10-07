@@ -259,7 +259,9 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 * \* Students playfully explore Google Apps, course management systems, screencasting tools, and file management systems.
 * \* The semester-long project is to design a curriculum for an *online course module* consisting of 3-5 interconnected lessons, which may include training sessions or non-traditional courses.
 
-## Instructional Activities & Workshops (13)
+## Instructional Activities & Workshops (14)
+
+**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture/
 
 Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
@@ -289,6 +291,7 @@ Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefan
 
 ## Mentoring and Advising
 
+\* Graduate mentor, *Undergraduate course instruction* (Madison Allen, MSU) \hfill 2020  
 \* Graduate mentor, *Master's course instruction* (William Bork, MSU) \hfill 2019-2020  
 \* Peer reviewer, *National Science Foundation (NSF) grant proposal* (Dr. Joshua Rosenberg, University of Tennessee, Knoxville) \hfill 2019  
 \* Doctoral student member, *Research apprenticeship practicum committee* (Sarah Galvin, MSU) \hfill 2018-2019  
