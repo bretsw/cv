@@ -105,7 +105,7 @@ Greenhow, C. M., Gleason, B., Marich, H., & **Staudt Willet**, K. B. (2017). Edu
 
 ## Book Chapters (6)
 
-**Staudt Willet**, K. B. (in press). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020* (pp. 169-178). Association for the Advancement of Computing in Education (AACE). [Invited revision of conference presentation in an edited book]
+**Staudt Willet**, K. B. (in press). The hashtag-thread mashup: Differences in Twitter #Edchat replies. In D. C. Gibson & M. N. Ochoa (Eds.), *Research highlights in technology and teacher education 2020*. Association for the Advancement of Computing in Education (AACE). [Invited revision of conference presentation in an edited book]
 
 Greenhalgh, S. P., Koehler, M. J., Rosenberg, J. M., & **Staudt Willet**, K. B. (2020). Considerations for using social media data in learning design and technology research. In E. Romero-Hall (Ed.), *Research methods in learning design & technology*. Routledge.
 
@@ -115,7 +115,7 @@ Greenhow, C. M., Galvin, S., & **Staudt Willet**, K. B. (2020). Research methods
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2018). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In T. J. Bastiaens & G. Marks (Eds.), *Education and Information Technology Annual 2018: A Selection of AACE Award Papers* (pp. 67-74). Association for the Advancement of Computing in Education (AACE).  http://learntechlib.org/p/182952/ [Invited reprint of conference presentation in an edited book]
 
-**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Waynesville, NC: Association for the Advancement of Computing in Education (AACE).  http://www.learntechlib.org/p/180960/ [Invited revision of conference presentation in an edited book]
+**Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017). A tweet by any other frame: Comparing three theoretical frameworks for studying educator interactions on Twitter. In L. Liu & D. Gibson (Eds.), *Research highlights in technology and teacher education 2017* (pp. 63-70). Association for the Advancement of Computing in Education (AACE).  http://www.learntechlib.org/p/180960/ [Invited revision of conference presentation in an edited book]
 
 ## Peer-Reviewed Conference Proceedings (14)
 
