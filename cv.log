@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  26 OCT 2020 06:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  26 OCT 2020 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,19 +510,19 @@ File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 2] [3] [4] [5] [6] [7] [8] [9] 
 AED: lastpage setting LastPage
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1067.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1067.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1072.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1072.
 (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1067.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1067.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1072.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1072.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 8FF0E4F680C425679355F9B82546079D;3494.
+(rerunfilecheck)             Checksum: B3F87B9E85435ADA3B4147C20F15C239;3494.
  ) 
 Here is how much of TeX's memory you used:
  14175 strings out of 482824
  205780 string characters out of 5955256
- 490010 words of memory out of 5000000
+ 490011 words of memory out of 5000000
  28953 multiletter control sequences out of 15000+600000
  589289 words of font info for 340 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -542,7 +542,7 @@ nts/type1/urw/palatino/uplb8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (10 pages, 188024 bytes).
+Output written on cv.pdf (10 pages, 188184 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  251 compressed objects within 3 object streams
