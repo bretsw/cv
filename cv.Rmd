@@ -36,10 +36,10 @@ urlcolor: blue
 
 # Interests
 
-**Networked Learning, as understood through:**
+**Networked Learning:**
 
 * \* **Online communities:** communities of practice, professional learning networks
-* \* **Social media modalities:** online learning environments, affinity spaces, learning ecologies
+* \* **Social media:** online learning environments, affinity spaces, learning ecologies
 * \* **Educational data mining:** digital traces, big data
 * \* **Learning analytics:** social network analysis, discourse analysis, natural language processing
 
@@ -100,7 +100,7 @@ Society for Information Technology & Teacher Education (SITE) International Conf
 
 **Staudt Willet**, K. B., & Carpenter, J. P. (in press). A tale of two subreddits: Change and continuity in teaching-related online spaces. *British Journal of Educational Technology*. https://doi.org/10.1111/bjet.13051
 
-Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing participants’ privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*.
+Rosenberg, J. M., & **Staudt Willet**, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler & Schumacher (2016). *Educational Technology Research and Development*.
 
 Greenhalgh, S. P., Rosenberg, J. M., **Staudt Willet**, K. B., Koehler, M. J., & Akcaoglu, M. (2020). Identifying multiple learning spaces within a single teacher-focused Twitter hashtag. *Computers and Education*. https://doi.org/10.1016/j.compedu.2020.103809
 
@@ -166,7 +166,11 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 **Staudt Willet**, K. B., Koehler, M. J., & Greenhalgh, S. P. (2017, March). A tweet by any other frame: Three approaches to studying educator interactions on Twitter. In P. Resta & S. Smith (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2017* (pp. 1823-1830). Association for the Advancement of Computing in Education (AACE).  https://www.learntechlib.org/p/177469/
 
-## Peer-Reviewed Conference Presentations (23)
+## Peer-Reviewed Conference Presentations (25)
+
+Carpenter, J. P., & **Staudt Willet**, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
+
+**Staudt Willet**, K. B., Galvin, S., & Greenhow, C. M. (2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In M. Rehm, K. Frank, & K. Torphy (Chairs), *Social opportunity spaces: How social media can inform / shape educational policy processes* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
 **Staudt Willet**, K. B. (2020, November). *Into the edu-verse: New teachers’ challenges, supports, and social media*. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
@@ -282,15 +286,15 @@ Michigan State University, Dept. of Counseling, Educational Psychology, & Specia
 
 ## Instructional Activities & Workshops (15)
 
-**Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
-
-**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture
-
 Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K. B. (2020, November). *Factors influencing doctoral students’ perseverance in online instructional technology programs* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
 Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, October). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online. https://bretsw.github.io/aect20-workshop/
+
+**Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
+
+**Staudt Willet**, K. B. (2020, October). *Welcome to the good place?: Teachers' networked learning on social media* [Guest lecture for Master's course]. Teaching with Technology, Manhattanville College, Purchase, NY. https://bretsw.github.io/manhattanville-lecture
 
 **Staudt Willet**, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R u ready 4 R? Introduction to analyzing educational Internet data using R* [Workshop facilitated for the Students, Social Media & Schools research group at Florida State University]. Available from https://bretsw.github.io/fsu-workshop/
 
@@ -384,7 +388,7 @@ Michigan State University, College of Education \hfill East Lansing MI
 Department of Counseling, Educational Psychology, & Special Education
 
 * \* Taught courses at Master's and Undergraduate levels
-* \* Graduate mentor for less experienced teaching assistants
+* \* Mentored less experienced teaching assistants
 
 **Course Writer** \hfill 2019  
 Concordia University, College of Education \hfill Portland OR  
