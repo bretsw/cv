@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  12 FEB 2021 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  18 FEB 2021 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,10 +542,10 @@ nts/type1/urw/palatino/uplb8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (11 pages, 191230 bytes).
+Output written on cv.pdf (11 pages, 191285 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
- 271 compressed objects within 3 object streams
+ 312 PDF objects out of 1000 (max. 8388607)
+ 272 compressed objects within 3 object streams
  58 named destinations out of 1000 (max. 500000)
  18617 words of extra memory for PDF output out of 20736 (max. 10000000)
 
