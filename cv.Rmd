@@ -175,8 +175,7 @@ Rosenberg, J., Akcaoglu, M., **Staudt Willet**, K. B., Greenhalgh, S., & Koehler
 
 Carpenter, J. P., & **Staudt Willet**, K. B. (2021, April). *Self-directed educator learning on Reddit: Comparing and contrasting two teaching-related subreddits* [Paper session]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
-Rosenberg, J. M., & **Staudt Willet**, K. B. (2021, April). Advancing social influence models in learning analytics. In O. Poquet, B. Chen, 
-M. Saqr, & T. Hecking (Chairs), *Using network science in learning analytics: Building bridges towards a common agenda* [Symposium]. The 11th International Learning Analytics and Knowledge Conference (LAK21). Society for Learning Analytics Research. https://learningfutures.github.io/lak-network/
+Rosenberg, J. M., & **Staudt Willet**, K. B. (2021, April). Advancing social influence models in learning analytics. In O. Poquet, B. Chen, M. Saqr, & T. Hecking (Chairs), *Using network science in learning analytics: Building bridges towards a common agenda* [Symposium]. The 11th International Learning Analytics and Knowledge Conference (LAK21). Society for Learning Analytics Research. https://learningfutures.github.io/lak-network/
 
 **Staudt Willet**, K. B., Galvin, S., & Greenhow, C. M. (2021, April). Flexible professional learning networks: Teachers turn to #Edchat during pandemic-disrupted education. In M. Rehm, K. Frank, & K. Torphy (Chairs), *Social opportunity spaces: How social media can inform / shape educational policy processes* [Symposium]. American Educational Research Association (AERA) Annual Meeting 2021, Online.
 
