@@ -7,7 +7,7 @@ output:
     template: ~/git/cv/svm-latex-cv.tex
 geometry: margin=1in
 
-author: K. Bret Staudt Willet
+author: K. Bret Staudt Willet, Ph.D.
 
 jobtitle: "Ph.D. Candidate, Michigan State University"
 # address: ""
@@ -39,8 +39,8 @@ urlcolor: blue
 **Networked Learning in Online Communities:**
 
 * \* *Social media:* online learning environments, affinity spaces, learning ecology
-* \* *Educational data mining:* digital traces, big data
 * \* *Learning analytics:* social network analysis, discourse analysis, natural language processing
+* \* *Educational data mining:* digital traces, big data
 
 **Featured Projects:**
 
@@ -56,9 +56,9 @@ urlcolor: blue
 
 ## Michigan State University
 
-**Ph.D.**, Educational Psychology & Educational Technology \hfill Expected Spring 2021
+**Ph.D.**, Educational Psychology & Educational Technology \hfill 2021
 
-  * \* Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media* (to be defended on March 19, 2021)
+  * \* Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media* (defended on March 19, 2021)
   * \* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 
 **M.A.**, Educational Technology \hfill 2015  
