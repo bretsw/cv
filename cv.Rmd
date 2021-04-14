@@ -9,7 +9,7 @@ geometry: margin=1in
 
 author: K. Bret Staudt Willet, Ph.D.
 
-jobtitle: "Ph.D. Candidate, Michigan State University"
+jobtitle: "Incoming Assistant Professor, Florida State University (Aug. 2021)"
 # address: ""
 fontawesome: yes
 
@@ -58,7 +58,7 @@ urlcolor: blue
 
 **Ph.D.**, Educational Psychology & Educational Technology \hfill 2021
 
-  * \* Dissertation: *"I filled a lot of gaps": How and why new teachers expand induction support systems with social media* (defended on March 19, 2021)
+  * \* Dissertation: *"I filled a lot of gaps": How and why early career teachers expand induction support systems with social media* (defended March 19, 2021)
   * \* Committee: Matthew Koehler, Christine Greenhow, Ralph Putnam, Gail Richmond
 
 **M.A.**, Educational Technology \hfill 2015  
@@ -140,7 +140,7 @@ Greenhow, C., Galvin, S., & **Staudt Willet**, K. B. (2021). Research methods un
 
 ## Peer-Reviewed Conference Proceedings (15)
 
-**Staudt Willet**, K. B., Greenhow, C., & Lewin, C. (2021, March). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2021*. Association for the Advancement of Computing in Education (AACE).
+**Staudt Willet**, K. B., Greenhow, C., & Lewin, C. (2021, March). Tweeting across the pond: COVID-19 emergency learning networks in the United Kingdom and the United States through Twitter #Edchat. In E. Langran & L. Archambault (Eds.), *Proceedings of Society for Information Technology & Teacher Education (SITE) International Conference 2021* (pp. 1769-1778). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/p/219343/ 
 
 Krutka, D. G., Heath, M. K., & **Staudt Willet**, K. B. (2020, April). *Foregrounding critical technoethics in technology and teacher education: A workshop for pedagogical action* Paper presented at the Society for Information Technology & Teacher Education (SITE) International Conference 2020, New Orleans, LA.
 
@@ -318,7 +318,7 @@ Budhrani, K., Ross, K., Muljana, P., Dyer, R., Jones, M., & **Staudt Willet**, K
 
 Romero-Hall, E., Arslan-Ari, I., Gentry, W., Greenhalgh, S., Jung, Y. J., Stefaniak, J., Tiwari, S., Koehler, M., Rosenberg, J., **Staudt Willet**, K. B., Lockee, B., Zimmerman, H., Pérez-Edgar, K., Grant, M. M., & Ari, F. (2020, November). *Let’s talk about research methods: Where are we today?* [Panel]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online.
 
-**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, October). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online. https://bretsw.github.io/aect20-workshop/
+**Staudt Willet**, K. B., Greenhalgh, S. P., & Rosenberg, J. M. (2020, November). *Simple collection and powerful analysis of Twitter data using R* [Conference workshop]. Association for Educational Communications and Technology (AECT) International Convention 2020, Online. https://bretsw.github.io/aect20-workshop/
 
 **Staudt Willet**, K. B. (2020, October). *You are stronger than you think: Insights for academic publishing* [Guest lecture for doctoral course]. CEP 956: Mind, Media and Learning, Michigan State University: East Lansing, MI. https://bretsw.github.io/publishing-lecture
 
