@@ -36,19 +36,7 @@ urlcolor: blue
 
 # Interests
 
-**Networked Learning in Online Communities:**
-
-* \* *Social media:* online learning environments, affinity spaces, learning ecology
-* \* *Learning analytics:* social network analysis, discourse analysis, natural language processing
-* \* *Educational data mining:* digital traces, big data
-
-**Featured Projects:**
-
-* \* Transition Support Systems with Social Media
-* \* Educational Twitter Hashtags
-* \* Teaching-Related Subreddits
-* \* Social Scholarship
-* \* Data Science in Education
+# networked learning | online communities | social media | data science
 
 ---
 
