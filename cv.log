@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  24 MAY 2021 23:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.12)  3 JUN 2021 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,23 +510,23 @@ File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 2] [3] [4] [5] [6] [7] [8] [9] [10] [11] 
 AED: lastpage setting LastPage
 [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1234.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1234.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1242.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1242.
 (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1242.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1242.
 
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 4BDBB807F96FFECC3A3BAA0F4E76551C;4912.
  ) 
 Here is how much of TeX's memory you used:
- 14242 strings out of 482824
- 206809 string characters out of 5955256
+ 14247 strings out of 482824
+ 206859 string characters out of 5955256
  490114 words of memory out of 5000000
  28963 multiletter control sequences out of 15000+600000
- 591848 words of font info for 376 fonts, out of 8000000 for 9000
+ 592134 words of font info for 380 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 45i,12n,52p,1191b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,12n,52p,1191b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/bretsw/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users
 /bretsw/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.e
 nc}{/Users/bretsw/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontaw
@@ -542,10 +542,10 @@ nts/type1/urw/palatino/uplb8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/fon
 ts/type1/urw/palatino/uplr8a.pfb></Users/bretsw/Library/TinyTeX/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (12 pages, 196769 bytes).
+Output written on cv.pdf (12 pages, 197453 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
+ 337 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
  65 named destinations out of 1000 (max. 500000)
  18641 words of extra memory for PDF output out of 20736 (max. 10000000)
 
