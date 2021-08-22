@@ -13,7 +13,7 @@ jobtitle: "Assistant Professor, Florida State University"
 # address: ""
 fontawesome: yes
 
-email: staudtwi@msu.edu
+email: bret.staudtwillet@fsu.edu
 twitter: bretsw
 github: bretsw
 linkedin: bretsw
